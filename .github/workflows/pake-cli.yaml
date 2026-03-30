@@ -15,6 +15,7 @@ on:
         options:
           - "windows-latest"
           - "macos-latest"
+          - "macos-13"
           - "ubuntu-24.04"
       url:
         description: "Website URL"
